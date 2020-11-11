@@ -1,2 +1,3 @@
 # Compiler-construction
-Lab 1 &amp; 2
+Lab 1 
+Lexical Analyzer in C++
